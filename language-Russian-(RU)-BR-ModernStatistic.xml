@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="BR/ModernStatistic" base_version_id="3010072" export_version="2">
+  <phrase title="admin_navigation.brmsStatistics" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Современная статистика]]></phrase>
+  <phrase title="brc_top_poorest" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Топ беднейших]]></phrase>
+  <phrase title="brc_top_richest" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Топ богатейших]]></phrase>
+  <phrase title="brms_active" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Активна]]></phrase>
+  <phrase title="brms_add_modern_statistic" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Добавить статистику]]></phrase>
+  <phrase title="brms_add_more_tab" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Добавить вкладку]]></phrase>
+  <phrase title="brms_allow_change_layout" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователю изменение расположение]]></phrase>
+  <phrase title="brms_allow_change_layout_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователю изменять расположение статистики]]></phrase>
+  <phrase title="brms_allow_manual_refresh" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователям ручное обновление статистики]]></phrase>
+  <phrase title="brms_allow_manual_refresh_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователю обновлять статистику вручную]]></phrase>
+  <phrase title="brms_allow_member_change_item_limit" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователю изменять количество элементов]]></phrase>
+  <phrase title="brms_allow_member_setting" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователю настройку]]></phrase>
+  <phrase title="brms_allow_member_setting_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить пользователю показывать или скрывать статистику]]></phrase>
+  <phrase title="brms_categories" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Категории]]></phrase>
+  <phrase title="brms_content_loading" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Загрузка контента]]></phrase>
+  <phrase title="brms_control_navigation_position" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Расположение Управление Навигацией]]></phrase>
+  <phrase title="brms_control_navigation_position_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Позиция отображения управления навигации]]></phrase>
+  <phrase title="brms_custom_preview" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Пользовательский предварительный просмотр]]></phrase>
+  <phrase title="brms_dark" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Темный]]></phrase>
+  <phrase title="brms_delete_modern_statistic" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Удалить статистику]]></phrase>
+  <phrase title="brms_delete_promote" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Удалить продвижение]]></phrase>
+  <phrase title="brms_display_this_statistic_while" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Отображение]]></phrase>
+  <phrase title="brms_edit_modern_statistic" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Редактировать статистику]]></phrase>
+  <phrase title="brms_entries" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Записи]]></phrase>
+  <phrase title="brms_exclude_groups" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Исключить группы]]></phrase>
+  <phrase title="brms_exclude_groups_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Для каких групп Вы хотели бы скрыть эту статистику.]]></phrase>
+  <phrase title="brms_extra" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Дополнительно]]></phrase>
+  <phrase title="brms_inactive" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Неактивный]]></phrase>
+  <phrase title="brms_include_nodes" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Включить узлы]]></phrase>
+  <phrase title="brms_item_limits" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Предел элементов]]></phrase>
+  <phrase title="brms_item_limits_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Количество тем для отображения. При выборе этого значения будет использоваться больше ресурсов сервера.]]></phrase>
+  <phrase title="brms_latest_banned_members" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Последние забаненые пользователи]]></phrase>
+  <phrase title="brms_latest_members" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Последние пользователи]]></phrase>
+  <phrase title="brms_latest_profile_posts" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Последние сообщения профиля]]></phrase>
+  <phrase title="brms_latest_replies" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Последние ответы]]></phrase>
+  <phrase title="brms_latest_threads" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Последние темы]]></phrase>
+  <phrase title="brms_latest_updates" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Последние обновления]]></phrase>
+  <phrase title="brms_light" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Светлый]]></phrase>
+  <phrase title="brms_load_fisrt_tab_promptly" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Быстрая загрузка первой вкладки]]></phrase>
+  <phrase title="brms_load_fisrt_tab_promptly_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Если включено, первая вкладка будет загружаться с шаблоном в первый раз. В противном случае это будет загружаться с AJAX.]]></phrase>
+  <phrase title="brms_modern_criteria_language_ids_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Выберите языки, которые Вы хотите отобразить. Если нет, он будет отображаться со всеми языками.]]></phrase>
+  <phrase title="brms_modern_criteria_node_ids_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Если хуки шаблон являются содержимым узла, таким как Список форумов, Форум, Тема, Категория.... Выберите узел, который Вы хотите отобразить. Если нет, он будет отображаться со всеми узлами.
+=> Выберите форумы, которые Вы хотите отображать статистику, в то время как хуки и шаблоны являются содержимым узла (forum_list, forum_view, thread_view, category_view...). <br/>Не выбирайте ничего, чтобы включить все форумы.]]></phrase>
+  <phrase title="brms_modern_criteria_template_name_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Введите список шаблонов, в которых Вы хотите отобразить позицию статистики. <br/>
+Вы можете оставить это поле пустым для отображения во всех шаблонах, содержащих позицию. <br/>
+Используйте пробелы или перенос строки между шаблонами. <br/>
+Например: <br/>
+- forum_list (главная страница)<br/>
+- forum_view (отдельная страница форума)<br/>
+- thread_view (страница темы)<br/>
+- member_view (индивидуальная страница пользователя)<br/>]]></phrase>
+  <phrase title="brms_modern_statistic_information" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Информация]]></phrase>
+  <phrase title="brms_modern_statistics" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Современная статистика]]></phrase>
+  <phrase title="brms_modern_statistics_preferences" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Настройки статистики]]></phrase>
+  <phrase title="brms_most_downloaded" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Самые скачиваемые]]></phrase>
+  <phrase title="brms_most_likes" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Большинство благодарностей]]></phrase>
+  <phrase title="brms_most_messages" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Большинство сообщений]]></phrase>
+  <phrase title="brms_most_points" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Большинство баллов]]></phrase>
+  <phrase title="brms_most_reaction_scores" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Большинство реакций с множеством баллов]]></phrase>
+  <phrase title="brms_most_replied_threads" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Темы с большинством ответов]]></phrase>
+  <phrase title="brms_most_resources" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Большинство ресурсов]]></phrase>
+  <phrase title="brms_most_viewed_threads" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Самые просматриваемые темы]]></phrase>
+  <phrase title="brms_must_have_value_for_item_limit" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Извините, Вы должны ввести хотя бы одно значение для опции предела элементов]]></phrase>
+  <phrase title="brms_must_select_currency" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Вы должны выбрать валюту для самых богатых или самых бедных пользователей.]]></phrase>
+  <phrase title="brms_my_threads" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Мои темы]]></phrase>
+  <phrase title="brms_newest_resources" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Новейшие ресурсы]]></phrase>
+  <phrase title="brms_no_modern_statistics_have_been_created_yet" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Современная статистика еще не создана.]]></phrase>
+  <phrase title="brms_please_select_at_least_one_tab" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Пожалуйста, выберите хотя бы одну вкладку]]></phrase>
+  <phrase title="brms_please_select_valid_position_to_display" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Пожалуйста, выберите действительную позицию для отображения]]></phrase>
+  <phrase title="brms_position_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Введите список хуков, где будет отображаться Современная Статистика. Используйте пробелы или перенос строки между позициями. <br/>
+Например: <br/>
+- "page_container_content_top" статистика видна вверху страницы.<br/>
+- "ad_below_top_breadcrumb" статистика видна ниже верхних хлебных крошек.<br/>
+- "page_container_content_title_bar" статистика видна под заголовком страницы.<br/>
+- "ad_sidebar_top" статистика видна в верхней части боковой панели.<br/>]]></phrase>
+  <phrase title="brms_profile_post_type" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Тип сообщения профиля]]></phrase>
+  <phrase title="brms_promote_date" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Дата продвижения]]></phrase>
+  <phrase title="brms_promote_date_hint" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Темы продвижения упорядочены по дате продвижения]]></phrase>
+  <phrase title="brms_promote_thread" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Продвижение темы]]></phrase>
+  <phrase title="brms_promoted_threads" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Продвигаемые темы]]></phrase>
+  <phrase title="brms_resource_type" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Тип ресурса]]></phrase>
+  <phrase title="brms_show_resource_prefix" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Показать префикс ресурса]]></phrase>
+  <phrase title="brms_show_resource_prefix_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Включение этой опции будет использовать больше ресурсов сервера]]></phrase>
+  <phrase title="brms_show_thread_prefix" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Показать префикс темы]]></phrase>
+  <phrase title="brms_show_thread_prefix_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Включение этой опции будет использовать больше ресурсов сервера]]></phrase>
+  <phrase title="brms_staff_members" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Команда форума]]></phrase>
+  <phrase title="brms_sticky_threads" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Закрепленные темы]]></phrase>
+  <phrase title="brms_style" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Стиль]]></phrase>
+  <phrase title="brms_style_display" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Стиль отображения]]></phrase>
+  <phrase title="brms_style_display_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Для совместимости с другими цветами форума]]></phrase>
+  <phrase title="brms_style_for_board_style" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Стили для тем форума]]></phrase>
+  <phrase title="brms_tab_type" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Тип вкладки]]></phrase>
+  <phrase title="brms_tabs_cache_time" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Время кэширования вкладок]]></phrase>
+  <phrase title="brms_tabs_cache_time_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Вкладки будут кешироваться с указанием пользователя. Введите количество минут для времени кеширования. Если включено, Время обновления и Предел элементов будут отключены. Вкладки будут загружены со значением по умолчанию для ограничения элемента.]]></phrase>
+  <phrase title="brms_tabs_data" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Вкладки]]></phrase>
+  <phrase title="brms_tabs_selector" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Выбор вкладок]]></phrase>
+  <phrase title="brms_template_title" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Название шаблона]]></phrase>
+  <phrase title="brms_thread_date_cut_off" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Дата отсечения темы]]></phrase>
+  <phrase title="brms_thread_date_cut_off_default" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Дата отсечения темы по умолчанию]]></phrase>
+  <phrase title="brms_thread_date_cut_off_default_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Введите количество дней с момента создания темы, чтобы отсечь из списка самых просматриваемых тем и тем с наибольшим количеством ответов. Введите 0, если Вы хотите включить все темы с начала.]]></phrase>
+  <phrase title="brms_thread_preview" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Предварительный просмотр темы]]></phrase>
+  <phrase title="brms_thread_type" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Тип темы]]></phrase>
+  <phrase title="brms_toggle_collapse" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Свернуть/Развернуть]]></phrase>
+  <phrase title="brms_update_time" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Время обновления]]></phrase>
+  <phrase title="brms_update_time_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Укажите время для обновления содержимого статистики.]]></phrase>
+  <phrase title="brms_use_preview_tooltip" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Использовать всплывающую подсказку]]></phrase>
+  <phrase title="brms_use_preview_tooltip_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Показать подсказки предварительного просмотра темы]]></phrase>
+  <phrase title="brms_user_type" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Тип пользователя]]></phrase>
+  <phrase title="brms_username_make_up" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Стиль Имени пользователя]]></phrase>
+  <phrase title="brms_username_make_up_explain" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Отображение имени пользователя с помощью стилей группы пользователей.]]></phrase>
+  <phrase title="brms_your_profile_posts" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Ваши сообщения профиля]]></phrase>
+  <phrase title="most_downloaded" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Самые скачиваемые]]></phrase>
+  <phrase title="newest_resources" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Новейшие ресурсы]]></phrase>
+  <phrase title="permission.BR_ModernStatistics_BRMS_allowPreference" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить изменять настройки статистики]]></phrase>
+  <phrase title="permission.forum_BRMS_promoteThread" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Разрешить продвижение темы]]></phrase>
+  <phrase title="permission_interface.BR_ModernStatistics" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[[Brivium] Modern statistics]]></phrase>
+  <phrase title="top_resources" addon_id="BR/ModernStatistic" version_id="3010072" version_string="3.1.0"><![CDATA[Лучшие ресурсы]]></phrase>
+</language>
